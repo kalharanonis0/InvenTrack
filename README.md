@@ -1,0 +1,2 @@
+# InvenTrack
+Stock Management System
