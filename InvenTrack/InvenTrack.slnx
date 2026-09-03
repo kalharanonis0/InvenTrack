@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../InvenTrackSetup/InvenTrackSetup.vdproj" Type="Installer">
+    <Build />
+  </Project>
+  <Project Path="InvenTrack.csproj" />
+</Solution>
