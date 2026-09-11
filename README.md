@@ -101,11 +101,11 @@ Add your application screenshots here:
 
 ```markdown
 ```
-![Home](InvenTrack/screenshots/home.png) | ![Dashboard](InvenTrack/screenshots/dashboard.png)
+| ![Home](InvenTrack/screenshots/home.png) | ![Dashboard](InvenTrack/screenshots/dashboard.png) |
 
-![AllProduct](InvenTrack/screenshots/Allproducts.png) | ![AddProduct](InvenTrack/screenshots/Addproducts.png) | ![updateProduct](InvenTrack/screenshots/Update-products.png)
+| ![AllProduct](InvenTrack/screenshots/Allproducts.png) | ![AddProduct](InvenTrack/screenshots/Addproducts.png) | ![updateProduct](InvenTrack/screenshots/Update-products.png) |
 
-![Category](InvenTrack/screenshots/Category.png) | ![Billing](InvenTrack/screenshots/billing.png)
+| ![Category](InvenTrack/screenshots/Category.png) | ![Billing](InvenTrack/screenshots/billing.png) |
 
 ---
 
