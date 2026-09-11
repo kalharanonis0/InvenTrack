@@ -101,6 +101,8 @@ Add your application screenshots here:
 
 ```markdown
 ```
+| Home | Dashboard |
+|:---:|:---:|
 | ![Home](InvenTrack/screenshots/home.png) | ![Dashboard](InvenTrack/screenshots/dashboard.png) |
 
 | ![AllProduct](InvenTrack/screenshots/Allproducts.png) | ![AddProduct](InvenTrack/screenshots/Addproducts.png) | ![updateProduct](InvenTrack/screenshots/Update-products.png) |
