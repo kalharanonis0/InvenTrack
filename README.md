@@ -101,19 +101,19 @@ Add your application screenshots here:
 
 ```markdown
 
-![Home](screenshots/home.png)
+![Home](InvenTrack/screenshots/home.png)
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](InvenTrack/screenshots/dashboard.png)
 
-![AllProduct](screenshots/Allproducts.png)
+![AllProduct](InvenTrack/screenshots/Allproducts.png)
 
-![AddProduct](screenshots/Addproducts.png)
+![AddProduct](InvenTrack/screenshots/Addproducts.png)
 
-![updateProduct](screenshots/Update-products.png)
+![updateProduct](InvenTrack/screenshots/Update-products.png)
 
-![Category](screenshots/Category.png)
+![Category](InvenTrack/screenshots/Category.png)
 
-![Billing](screenshots/billing.png)
+![Billing](InvenTrack/screenshots/billing.png)
 
 ```
 
