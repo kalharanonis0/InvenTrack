@@ -104,15 +104,19 @@ Add your application screenshots here:
 | Home | All Products |
 |:---:|:---:|
 | ![Home](InvenTrack/screenshots/home.png) |  ![AllProduct](InvenTrack/screenshots/Allproducts.png) |
+
 | Dashboard |
 |:---:|
 | ![Dashboard](InvenTrack/screenshots/dashboard.png)| 
+
 | Add Product | Update Product | Add Category |
 |:---:|:---:|:---:|
 |![AddProduct](InvenTrack/screenshots/Addproducts.png) | ![updateProduct](InvenTrack/screenshots/Update-products.png) | ![Category](InvenTrack/screenshots/Category.png) |
+
 | Billing page |
 |:---:|
 | ![Billing](InvenTrack/screenshots/billing.png) |
+
 
 ---
 
