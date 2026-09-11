@@ -2,6 +2,8 @@
 
 **InvenTrack** is a desktop-based Inventory Management System developed using **C# Windows Forms** and **SQL Server**. It is designed to help small businesses manage products, categories, stock levels, billing, and inventory information efficiently.
 
+ ![Home](InvenTrack/screenshots/home.png)
+ 
 ---
 
 ## 🧩 Features
