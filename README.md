@@ -100,22 +100,12 @@ git clone https://github.com/your-username/InvenTrack.git
 Add your application screenshots here:
 
 ```markdown
-
-![Home](InvenTrack/screenshots/home.png)
-
-![Dashboard](InvenTrack/screenshots/dashboard.png)
-
-![AllProduct](InvenTrack/screenshots/Allproducts.png)
-
-![AddProduct](InvenTrack/screenshots/Addproducts.png)
-
-![updateProduct](InvenTrack/screenshots/Update-products.png)
-
-![Category](InvenTrack/screenshots/Category.png)
-
-![Billing](InvenTrack/screenshots/billing.png)
-
 ```
+![Home](InvenTrack/screenshots/home.png) | ![Dashboard](InvenTrack/screenshots/dashboard.png)
+
+![AllProduct](InvenTrack/screenshots/Allproducts.png) | ![AddProduct](InvenTrack/screenshots/Addproducts.png) | ![updateProduct](InvenTrack/screenshots/Update-products.png)
+
+![Category](InvenTrack/screenshots/Category.png) | ![Billing](InvenTrack/screenshots/billing.png)
 
 ---
 
